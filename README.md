@@ -1,4 +1,5 @@
 Anisa karenina - 221011400758
+
 Sistem ini dirancang berdasarkan jenis penggunaannya, di mana setiap pengguna memiliki peran dan hak akses yang berbeda. Pembagian ini bertujuan agar penggunaan fitur lebih terkontrol, aman, dan sesuai dengan kebutuhan masing-masing pengguna. Dengan pengelompokan peran pengguna, pengelolaan data dan operasional sistem dapat berjalan lebih efektif dan efisien.
 1. Halaman Login & User
 <img width="1360" height="638" alt="Screenshot 2025-12-28 182052" src="https://github.com/user-attachments/assets/b2d1a4f3-6174-4a20-9469-f65ada71fe75" />
